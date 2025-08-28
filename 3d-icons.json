@@ -1,194 +1,374 @@
 [
-{
+  {
     "id": 1,
     "name": "Hand, Arm, Coins",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-01.png"
-},
-{
+  },
+  {
     "id": 2,
     "name": "Coins",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-02.png"
-},
-{
+  },
+  {
     "id": 3,
     "name": "Safe",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-03.png"
-},
-{
+  },
+  {
     "id": 4,
     "name": "Transaction",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-04.png"
-},
-{
+  },
+  {
     "id": 5,
     "name": "Money, Banknote, Deposit",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-05.png"
-},
-{
+  },
+  {
     "id": 6,
     "name": "Wallet",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-06.png"
-},
-{
+  },
+  {
     "id": 7,
     "name": "Money, Banknote, Clock",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-07.png"
-},
-{
+  },
+  {
     "id": 8,
     "name": "Money, Banknote, Checkmark",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-08.png"
-},
-{
+  },
+  {
     "id": 9,
     "name": "Money, Search",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-09.png"
-},
-{
+  },
+  {
     "id": 10,
     "name": "Money, Repeat",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-10.png"
-},
-{
+  },
+  {
     "id": 11,
-    "name": "Money, Banknote, Scan, \u0421heck",
+    "name": "Money, Banknote, Scan, Сheck",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-11.png"
-},
-{
+  },
+  {
     "id": 12,
     "name": "Money, Banknote, Hand",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-12.png"
-},
-{
+  },
+  {
     "id": 34,
     "name": "Successful transaction",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-13.png"
-},
-{
+  },
+  {
     "id": 35,
     "name": "Wireless, Payments, Smartphone",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-14.png"
-},
-{
+  },
+  {
     "id": 36,
     "name": "Bank-Checkmark",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-15.png"
-},
-{
+  },
+  {
     "id": 37,
     "name": "Bank-Clock-Operating-Time",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-16.png"
-},
-{
+  },
+  {
     "id": 38,
     "name": "Bank-Delete",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-17.png"
-},
-{
+  },
+  {
     "id": 39,
     "name": "Bank-Warning-Error",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-18.png"
-},
-{
+  },
+  {
     "id": 40,
     "name": "Bank-Certificate",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-19.png"
-},
-{
+  },
+  {
     "id": 41,
     "name": "Financial Report",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-20.png"
-},
-{
+  },
+  {
     "id": 42,
     "name": "Invoice-Accounting-Document-Chat",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-21.png"
-},
-{
+  },
+  {
     "id": 43,
     "name": "Wallet",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-22.png"
-},
-{
+  },
+  {
     "id": 44,
     "name": "Coins-Percent-Arrow-Up",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-23.png"
-},
-{
+  },
+  {
     "id": 45,
     "name": "Money-Banknote-Arrow",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-24.png"
-},
-{
+  },
+  {
     "id": 46,
     "name": "Money-Banknote-Exchange",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-25.png"
-},
-{
+  },
+  {
     "id": 47,
     "name": "Wallet-Checkmark",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-26.png"
-},
-{
+  },
+  {
     "id": 48,
     "name": "Credit-Card",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-27.png"
-},
-{
+  },
+  {
     "id": 49,
     "name": "Successful-Transaction",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-28.png"
-},
-{
+  },
+  {
     "id": 50,
     "name": "Unsuccessful-Transaction",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-29.png"
-},
-{
+  },
+  {
     "id": 51,
     "name": "Unsuccessful-Transaction",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-30.png"
-},
-{
+  },
+  {
     "id": 52,
     "name": "Wireless, Payments, Smartphone",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-31.png"
-},
-{
+  },
+  {
     "id": 53,
     "name": "Bank-Certificate",
     "category": "Finance",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/finance-32.png"
-}
+  },
+  {
+    "id": 67,
+    "name": "finance-01",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-01.png"
+  },
+  {
+    "id": 68,
+    "name": "finance-02",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-02.png"
+  },
+  {
+    "id": 69,
+    "name": "finance-03",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-03.png"
+  },
+  {
+    "id": 70,
+    "name": "finance-04",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-04.png"
+  },
+  {
+    "id": 71,
+    "name": "finance-05",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-05.png"
+  },
+  {
+    "id": 72,
+    "name": "finance-06",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-06.png"
+  },
+  {
+    "id": 73,
+    "name": "finance-07",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-07.png"
+  },
+  {
+    "id": 74,
+    "name": "finance--8",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-08.png"
+  },
+  {
+    "id": 75,
+    "name": "finance-09",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-09.png"
+  },
+  {
+    "id": 76,
+    "name": "finance-10",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-10.png"
+  },
+  {
+    "id": 77,
+    "name": "finance-11",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-11.png"
+  },
+  {
+    "id": 78,
+    "name": "finance-12",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-12.png"
+  },
+  {
+    "id": 79,
+    "name": "finance-13",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-13.png"
+  },
+  {
+    "id": 80,
+    "name": "finance-14",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-14.png"
+  },
+  {
+    "id": 81,
+    "name": "finance-15",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-15.png"
+  },
+  {
+    "id": 82,
+    "name": "finance-16",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-16.png"
+  },
+  {
+    "id": 83,
+    "name": "finance-17",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-17.png"
+  },
+  {
+    "id": 84,
+    "name": "finance-18",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-18.png"
+  },
+  {
+    "id": 85,
+    "name": "finance-19",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-19.png"
+  },
+  {
+    "id": 86,
+    "name": "finance-20",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-20.png"
+  },
+  {
+    "id": 87,
+    "name": "finance-21",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-21.png"
+  },
+  {
+    "id": 88,
+    "name": "finance-22",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-22.png"
+  },
+  {
+    "id": 89,
+    "name": "finance-23",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-23.png"
+  },
+  {
+    "id": 90,
+    "name": "finance-24",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-24.png"
+  },
+  {
+    "id": 91,
+    "name": "finance-25",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-25.png"
+  },
+  {
+    "id": 92,
+    "name": "finance-26",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-26.png"
+  },
+  {
+    "id": 93,
+    "name": "finance-27",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-27.png"
+  },
+  {
+    "id": 94,
+    "name": "finance-28",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-28.png"
+  },
+  {
+    "id": 95,
+    "name": "finance-29",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-29.png"
+  },
+  {
+    "id": 96,
+    "name": "finance-30",
+    "category": "Travel",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-30.png"
+  }
 ]
