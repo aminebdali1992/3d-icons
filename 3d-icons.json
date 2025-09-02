@@ -370,5 +370,83 @@
     "name": "travel-30",
     "category": "Travel",
     "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/travel-30.png"
+  },
+  {
+    "id": 100,
+    "name": "Change-Replace",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-01.png"
+  },
+  {
+    "id": 101,
+    "name": "Checkmark",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-02.png"
+  },
+  {
+    "id": 102,
+    "name": "Column-Add",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-03.png"
+  },
+  {
+    "id": 103,
+    "name": "Delete",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-04.png"
+  },
+  {
+    "id": 104,
+    "name": "Column-Resize",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-05.png"
+  },
+  {
+    "id": 105,
+    "name": "Delete",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-06.png"
+  },
+  {
+    "id": 106,
+    "name": "Eraser-Sqaure",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-07.png"
+  },
+  {
+    "id": 107,
+    "name": "Link",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-08.png"
+  },
+  {
+    "id": 108,
+    "name": "Move-Arrows",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-09.png"
+  },
+  {
+    "id": 109,
+    "name": "Move-Right",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-10.png"
+  },
+  {
+    "id": 110,
+    "name": "Table-Edit",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-11.png"
+  },
+  {
+    "id": 111,
+    "name": "Table-Lock",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-12.png"
+  },
+  {
+    "id": 112,
+    "name": "Warning",
+    "category": "Table",
+    "url": "https://raw.githubusercontent.com/aminebdali1992/3d-icons/main/table-13.png"
   }
 ]
